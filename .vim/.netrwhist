@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/data/data/com.termux/files/usr/lib/python3.6'
+let g:netrw_dirhist_2='/data/data/com.termux/files/usr/lib/python3.6/distutils'
+let g:netrw_dirhist_3='/data/data/com.termux/files/usr/lib/python3.6'
+let g:netrw_dirhist_4='/data/data/com.termux/files/usr/lib/python3.6/site-packages'
+let g:netrw_dirhist_5='/data/data/com.termux/files/usr/lib/python3.6/site-packages/youtube_dl'
+let g:netrw_dirhist_6='/data/data/com.termux/files/usr/lib/python3.6/site-packages/youtube-1.0.6-py3.6.egg-info'
