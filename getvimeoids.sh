@@ -12,5 +12,5 @@ for i in `ls | grep .asp$` ; do rm -f $i ; done
 
 echo
 echo topic_ID
-
+for i in `cat topic_ID | awk '{print $2}'` ; do ../vimeodown.py $i ; done
 echo
